@@ -31,6 +31,7 @@
 		DCD2B7E12887BAF5005463DF /* NineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E02887BAF5005463DF /* NineViewController.swift */; };
 		DCD2B7E32887BB07005463DF /* tenthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E22887BB07005463DF /* tenthViewController.swift */; };
 		DCD2B7E52887BB1F005463DF /* ElevenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E42887BB1F005463DF /* ElevenViewController.swift */; };
+		F53758E92888524400FF626D /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F53758E82888524400FF626D /* KWK final project .png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		DCD2B7E02887BAF5005463DF /* NineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NineViewController.swift; sourceTree = "<group>"; };
 		DCD2B7E22887BB07005463DF /* tenthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tenthViewController.swift; sourceTree = "<group>"; };
 		DCD2B7E42887BB1F005463DF /* ElevenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenViewController.swift; sourceTree = "<group>"; };
+		F53758E82888524400FF626D /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KWK final project .png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */,
 				54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */,
 				547419C32887289700C46D63 /* Assets.xcassets */,
+				F53758E82888524400FF626D /* KWK final project .png */,
 				547419C52887289700C46D63 /* LaunchScreen.storyboard */,
 				547419C82887289700C46D63 /* Info.plist */,
 				547419C02887289300C46D63 /* FinalProject.xcdatamodeld */,
@@ -279,6 +282,7 @@
 				547419C72887289700C46D63 /* LaunchScreen.storyboard in Resources */,
 				547419C42887289700C46D63 /* Assets.xcassets in Resources */,
 				547419BF2887289300C46D63 /* Main.storyboard in Resources */,
+				F53758E92888524400FF626D /* KWK final project .png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
