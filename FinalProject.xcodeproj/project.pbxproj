@@ -17,6 +17,9 @@
 		547419D22887289800C46D63 /* FinalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547419D12887289800C46D63 /* FinalProjectTests.swift */; };
 		547419DC2887289800C46D63 /* FinalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547419DB2887289800C46D63 /* FinalProjectUITests.swift */; };
 		547419DE2887289800C46D63 /* FinalProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547419DD2887289800C46D63 /* FinalProjectUITestsLaunchTests.swift */; };
+		54741A3A28884FAA00C46D63 /* ViewControllerHomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */; };
+		54741A3C28884FFB00C46D63 /* ViewControllerEducationPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */; };
+		54741A3E2888503B00C46D63 /* ViewControllerPetitionsAndDonationsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54741A3D2888503B00C46D63 /* ViewControllerPetitionsAndDonationsPage.swift */; };
 		DCD2B7D1288782D0005463DF /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7D0288782D0005463DF /* FirstViewController.swift */; };
 		DCD2B7D32887BA50005463DF /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7D22887BA50005463DF /* SecondViewController.swift */; };
 		DCD2B7D52887BA65005463DF /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7D42887BA65005463DF /* ThirdViewController.swift */; };
@@ -62,6 +65,9 @@
 		547419D72887289800C46D63 /* FinalProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		547419DB2887289800C46D63 /* FinalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectUITests.swift; sourceTree = "<group>"; };
 		547419DD2887289800C46D63 /* FinalProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerHomePage.swift; sourceTree = "<group>"; };
+		54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEducationPage.swift; sourceTree = "<group>"; };
+		54741A3D2888503B00C46D63 /* ViewControllerPetitionsAndDonationsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerPetitionsAndDonationsPage.swift; sourceTree = "<group>"; };
 		DCD2B7D0288782D0005463DF /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		DCD2B7D22887BA50005463DF /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		DCD2B7D42887BA65005463DF /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
@@ -128,6 +134,9 @@
 				547419BB2887289300C46D63 /* ViewController.swift */,
 				DCD2B7D0288782D0005463DF /* FirstViewController.swift */,
 				547419BD2887289300C46D63 /* Main.storyboard */,
+				54741A3D2888503B00C46D63 /* ViewControllerPetitionsAndDonationsPage.swift */,
+				54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */,
+				54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */,
 				547419C32887289700C46D63 /* Assets.xcassets */,
 				547419C52887289700C46D63 /* LaunchScreen.storyboard */,
 				547419C82887289700C46D63 /* Info.plist */,
@@ -300,12 +309,15 @@
 				547419BC2887289300C46D63 /* ViewController.swift in Sources */,
 				547419B82887289300C46D63 /* AppDelegate.swift in Sources */,
 				DCD2B7E32887BB07005463DF /* tenthViewController.swift in Sources */,
+				54741A3C28884FFB00C46D63 /* ViewControllerEducationPage.swift in Sources */,
 				DCD2B7D52887BA65005463DF /* ThirdViewController.swift in Sources */,
 				DCD2B7DF2887BAD8005463DF /* EighthViewController.swift in Sources */,
 				DCD2B7D72887BA76005463DF /* FourthViewController.swift in Sources */,
 				547419C22887289300C46D63 /* FinalProject.xcdatamodeld in Sources */,
 				DCD2B7E12887BAF5005463DF /* NineViewController.swift in Sources */,
 				DCD2B7D1288782D0005463DF /* FirstViewController.swift in Sources */,
+				54741A3E2888503B00C46D63 /* ViewControllerPetitionsAndDonationsPage.swift in Sources */,
+				54741A3A28884FAA00C46D63 /* ViewControllerHomePage.swift in Sources */,
 				DCD2B7DD2887BAC8005463DF /* SeventhViewController.swift in Sources */,
 				547419BA2887289300C46D63 /* SceneDelegate.swift in Sources */,
 				DCD2B7DB2887BAB6005463DF /* SixthViewController.swift in Sources */,
