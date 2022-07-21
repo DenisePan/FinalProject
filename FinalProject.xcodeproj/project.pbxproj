@@ -43,6 +43,8 @@
 		F584A1902889AF910087FF50 /* kloss.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A18F2889AF910087FF50 /* kloss.png */; };
 		F584A1922889B0760087FF50 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1912889B0760087FF50 /* home.png */; };
 		F584A1962889B1920087FF50 /* kloss (1).png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1952889B1920087FF50 /* kloss (1).png */; };
+		F584A1982889C3CC0087FF50 /* ilovekwk.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1972889C3CC0087FF50 /* ilovekwk.png */; };
+		F584A19A2889C4290087FF50 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1992889C4290087FF50 /* menu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -103,6 +105,8 @@
 		F584A18F2889AF910087FF50 /* kloss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kloss.png; sourceTree = "<group>"; };
 		F584A1912889B0760087FF50 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		F584A1952889B1920087FF50 /* kloss (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kloss (1).png"; sourceTree = "<group>"; };
+		F584A1972889C3CC0087FF50 /* ilovekwk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ilovekwk.png; sourceTree = "<group>"; };
+		F584A1992889C4290087FF50 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +166,8 @@
 				54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */,
 				54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */,
 				547419C32887289700C46D63 /* Assets.xcassets */,
+				F584A1992889C4290087FF50 /* menu.png */,
+				F584A1972889C3CC0087FF50 /* ilovekwk.png */,
 				F584A1952889B1920087FF50 /* kloss (1).png */,
 				F584A1912889B0760087FF50 /* home.png */,
 				F584A18F2889AF910087FF50 /* kloss.png */,
@@ -314,6 +320,7 @@
 			files = (
 				F584A1822889A8D90087FF50 /* app.png in Resources */,
 				F584A1962889B1920087FF50 /* kloss (1).png in Resources */,
+				F584A19A2889C4290087FF50 /* menu.png in Resources */,
 				F584A1882889ABB50087FF50 /* 17.png in Resources */,
 				F584A18C2889AD0C0087FF50 /* klossyKK.png in Resources */,
 				F584A1842889A9DD0087FF50 /* apps.png in Resources */,
@@ -323,6 +330,7 @@
 				F584A18E2889AF820087FF50 /* klossyyy.png in Resources */,
 				F584A17E2889A5620087FF50 /* info.png in Resources */,
 				547419C42887289700C46D63 /* Assets.xcassets in Resources */,
+				F584A1982889C3CC0087FF50 /* ilovekwk.png in Resources */,
 				F584A1782889A45E0087FF50 /* KWK final project .png in Resources */,
 				F584A1902889AF910087FF50 /* kloss.png in Resources */,
 				F584A18A2889ABE40087FF50 /* 16.png in Resources */,

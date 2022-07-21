@@ -346,7 +346,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="KWK final project  (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="ubF-q0-kzT">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ilovekwk.png" translatesAutoresizingMaskIntoConstraints="NO" id="ubF-q0-kzT">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -386,7 +386,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="klossyKK.png" translatesAutoresizingMaskIntoConstraints="NO" id="wCy-pC-W0D">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="menu.png" translatesAutoresizingMaskIntoConstraints="NO" id="wCy-pC-W0D">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -930,22 +930,22 @@
         <segue reference="3xK-MS-pn5"/>
         <segue reference="cwi-7a-8pU"/>
         <segue reference="Onh-jK-5Js"/>
-        <segue reference="O4w-pJ-uWT"/>
+        <segue reference="DXi-nq-xoA"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="4032" height="3024"/>
         <image name="16.png" width="310.5" height="672"/>
         <image name="17.png" width="310.5" height="672"/>
         <image name="Copy of KWK" width="414" height="896"/>
-        <image name="KWK final project  (1).png" width="310.5" height="672"/>
         <image name="KWK final project .png" width="310.5" height="672"/>
         <image name="app.png" width="310.5" height="672"/>
         <image name="apps.png" width="310.5" height="672"/>
+        <image name="ilovekwk.png" width="310.5" height="672"/>
         <image name="info.png" width="310.5" height="672"/>
         <image name="kloss (1).png" width="310.5" height="672"/>
         <image name="kloss.png" width="310.5" height="672"/>
-        <image name="klossyKK.png" width="310.5" height="672"/>
         <image name="klossyyy.png" width="310.5" height="672"/>
+        <image name="menu.png" width="310.5" height="672"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
