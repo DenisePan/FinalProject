@@ -32,63 +32,31 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="w3e-TX-cPR">
-                                <rect key="frame" x="54" y="339" width="307" height="1281"/>
+                                <rect key="frame" x="43" y="373" width="307" height="1689.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
                                         <string key="content">Abortion has been a key aspect of Reproductive and Women’s Health for centuries. In 1847,  the American Medical Association (AMA) was created and dominated by male voices. The AMA phased out reproductive health care workers and believed that they should decide whether or not abortion was legal.</string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="18" name="HelveticaNeue"/>
+                                            <color key="NSColor" red="0.25105215408259479" green="0.54254692552065609" blue="0.16552904260251128" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
                                             <font key="NSOriginalFont" size="18" name="HelveticaNeue"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
                                     <fragment content="               ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="18" name="HelveticaNeue"/>
+                                            <color key="NSColor" red="0.25105215408259479" green="0.54254692552065609" blue="0.16552904260251128" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
-                                    <fragment>
-                                        <string key="content"> However, the association was not qualified to make such judgments as they lacked knowledge on pregnancy and reproductive health. By 19</string>
+                                    <fragment content=" ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="18" name="HelveticaNeue"/>
+                                            <color key="NSColor" red="0.25105215408259479" green="0.54254692552065609" blue="0.16552904260251128" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
                                             <font key="NSOriginalFont" size="18" name="HelveticaNeue"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content">10, abortion was illegal in every state in the United States. This was not just because people had issues with abortion; during this time period, America was experiencing increased immigration numbers and sought out abortion laws as a way to get upper class white women to birth more children. 
-</string>
-                                        <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="18" name="HelveticaNeue"/>
-                                            <font key="NSOriginalFont" size="18" name="HelveticaNeue"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <mutableString key="content">
-The Association for the Study of Abortion (ASA) was founded in 1964 as a way to combat the laws and advance safe abortion procedures. New York legalized abortion by 1970, and, in the first two years after abortion became legal, two thirds of the abortions preformed in New York were on patients who had traveled from other states. A couple of years later, in a monumental decision, the US Supreme Court ruled to protect the right to abortion in Roe v. Wade. The Roe v. Wade decision protected abortion rights in all 50 states and set a legal precedent that would affect later Supreme Court cases. 
-
-Current - 
-</mutableString>
-                                        <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="18" name="HelveticaNeue"/>
-                                            <font key="NSOriginalFont" size="18" name="HelveticaNeue"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content">On September 1, 2021, Texas implemented a law called S.B. 8, which bans abortion starting from 6 weeks of pregnancy. This law was the first major case that sparked abortion debates since Roe v. Wade in 1973. Recently, the Supreme Court in a 5-4 decision overturned Roe v. Wade, giving individual states the power to set their own laws regarding abortion. </string>
-                                        <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="18" name="HelveticaNeue"/>
-                                            <font key="NSOriginalFont" size="18" name="HelveticaNeue"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
                                     <fragment>
@@ -96,22 +64,36 @@ Current -
 Cg
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" metaFont="system" size="20"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                            <color key="NSColor" red="0.25105215408259479" green="0.54254692552065609" blue="0.16552904260251128" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
                                 </attributedString>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bcc-TE-uyM">
-                                <rect key="frame" x="50" y="290" width="311" height="41"/>
+                                <rect key="frame" x="43" y="301" width="311" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment content="History of Roe v. Wade">
                                         <attributes>
-                                            <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <font key="NSFont" size="30" name="HelveticaNeue"/>
+                                            <color key="NSColor" red="0.94253069162368774" green="0.49891256714020749" blue="0.17527160136437067" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="23" name="Futura-Bold"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sgA-oQ-G3a">
+                                <rect key="frame" x="43" y="328" width="311" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="So what really happened?">
+                                        <attributes>
+                                            <color key="NSColor" red="0.016804177310000001" green="0.19835099580000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <font key="NSFont" size="20" name="Futura-Medium"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
