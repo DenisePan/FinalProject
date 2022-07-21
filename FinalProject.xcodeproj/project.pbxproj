@@ -31,7 +31,20 @@
 		DCD2B7E12887BAF5005463DF /* NineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E02887BAF5005463DF /* NineViewController.swift */; };
 		DCD2B7E32887BB07005463DF /* tenthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E22887BB07005463DF /* tenthViewController.swift */; };
 		DCD2B7E52887BB1F005463DF /* ElevenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E42887BB1F005463DF /* ElevenViewController.swift */; };
-		F53758E92888524400FF626D /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F53758E82888524400FF626D /* KWK final project .png */; };
+		F584A1742889A0FE0087FF50 /* KWK final project  (1).png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1732889A0FE0087FF50 /* KWK final project  (1).png */; };
+		F584A1762889A3680087FF50 /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1752889A3680087FF50 /* KWK final project .png */; };
+		F584A1782889A45E0087FF50 /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1772889A45E0087FF50 /* KWK final project .png */; };
+		F584A17C2889A5340087FF50 /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F584A17B2889A5340087FF50 /* KWK final project .png */; };
+		F584A17E2889A5620087FF50 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A17D2889A5620087FF50 /* info.png */; };
+		F584A1822889A8D90087FF50 /* app.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1812889A8D90087FF50 /* app.png */; };
+		F584A1842889A9DD0087FF50 /* apps.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1832889A9DD0087FF50 /* apps.png */; };
+		F584A1882889ABB50087FF50 /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1872889ABB50087FF50 /* 17.png */; };
+		F584A18A2889ABE40087FF50 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1892889ABE40087FF50 /* 16.png */; };
+		F584A18C2889AD0C0087FF50 /* klossyKK.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A18B2889AD0C0087FF50 /* klossyKK.png */; };
+		F584A18E2889AF820087FF50 /* klossyyy.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A18D2889AF820087FF50 /* klossyyy.png */; };
+		F584A1902889AF910087FF50 /* kloss.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A18F2889AF910087FF50 /* kloss.png */; };
+		F584A1922889B0760087FF50 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1912889B0760087FF50 /* home.png */; };
+		F584A1962889B1920087FF50 /* kloss (1).png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1952889B1920087FF50 /* kloss (1).png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,7 +93,20 @@
 		DCD2B7E02887BAF5005463DF /* NineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NineViewController.swift; sourceTree = "<group>"; };
 		DCD2B7E22887BB07005463DF /* tenthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tenthViewController.swift; sourceTree = "<group>"; };
 		DCD2B7E42887BB1F005463DF /* ElevenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenViewController.swift; sourceTree = "<group>"; };
-		F53758E82888524400FF626D /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KWK final project .png"; sourceTree = "<group>"; };
+		F584A1732889A0FE0087FF50 /* KWK final project  (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KWK final project  (1).png"; sourceTree = "<group>"; };
+		F584A1752889A3680087FF50 /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "KWK final project .png"; path = "../../../Downloads/KWK final project .png"; sourceTree = "<group>"; };
+		F584A1772889A45E0087FF50 /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KWK final project .png"; sourceTree = "<group>"; };
+		F584A17B2889A5340087FF50 /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "KWK final project .png"; path = "../../../Downloads/KWK final project .png"; sourceTree = "<group>"; };
+		F584A17D2889A5620087FF50 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = "<group>"; };
+		F584A1812889A8D90087FF50 /* app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app.png; sourceTree = "<group>"; };
+		F584A1832889A9DD0087FF50 /* apps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apps.png; sourceTree = "<group>"; };
+		F584A1872889ABB50087FF50 /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = "<group>"; };
+		F584A1892889ABE40087FF50 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		F584A18B2889AD0C0087FF50 /* klossyKK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = klossyKK.png; sourceTree = "<group>"; };
+		F584A18D2889AF820087FF50 /* klossyyy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = klossyyy.png; sourceTree = "<group>"; };
+		F584A18F2889AF910087FF50 /* kloss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kloss.png; sourceTree = "<group>"; };
+		F584A1912889B0760087FF50 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		F584A1952889B1920087FF50 /* kloss (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kloss (1).png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,7 +166,20 @@
 				54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */,
 				54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */,
 				547419C32887289700C46D63 /* Assets.xcassets */,
-				F53758E82888524400FF626D /* KWK final project .png */,
+				F584A1952889B1920087FF50 /* kloss (1).png */,
+				F584A1912889B0760087FF50 /* home.png */,
+				F584A18F2889AF910087FF50 /* kloss.png */,
+				F584A18D2889AF820087FF50 /* klossyyy.png */,
+				F584A18B2889AD0C0087FF50 /* klossyKK.png */,
+				F584A1892889ABE40087FF50 /* 16.png */,
+				F584A1872889ABB50087FF50 /* 17.png */,
+				F584A1832889A9DD0087FF50 /* apps.png */,
+				F584A1812889A8D90087FF50 /* app.png */,
+				F584A17D2889A5620087FF50 /* info.png */,
+				F584A17B2889A5340087FF50 /* KWK final project .png */,
+				F584A1752889A3680087FF50 /* KWK final project .png */,
+				F584A1772889A45E0087FF50 /* KWK final project .png */,
+				F584A1732889A0FE0087FF50 /* KWK final project  (1).png */,
 				547419C52887289700C46D63 /* LaunchScreen.storyboard */,
 				547419C82887289700C46D63 /* Info.plist */,
 				547419C02887289300C46D63 /* FinalProject.xcdatamodeld */,
@@ -279,10 +318,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F584A1822889A8D90087FF50 /* app.png in Resources */,
+				F584A1962889B1920087FF50 /* kloss (1).png in Resources */,
+				F584A1882889ABB50087FF50 /* 17.png in Resources */,
+				F584A18C2889AD0C0087FF50 /* klossyKK.png in Resources */,
+				F584A1842889A9DD0087FF50 /* apps.png in Resources */,
+				F584A1922889B0760087FF50 /* home.png in Resources */,
+				F584A1742889A0FE0087FF50 /* KWK final project  (1).png in Resources */,
 				547419C72887289700C46D63 /* LaunchScreen.storyboard in Resources */,
+				F584A18E2889AF820087FF50 /* klossyyy.png in Resources */,
+				F584A17E2889A5620087FF50 /* info.png in Resources */,
 				547419C42887289700C46D63 /* Assets.xcassets in Resources */,
+				F584A1782889A45E0087FF50 /* KWK final project .png in Resources */,
+				F584A1902889AF910087FF50 /* kloss.png in Resources */,
+				F584A18A2889ABE40087FF50 /* 16.png in Resources */,
+				F584A1762889A3680087FF50 /* KWK final project .png in Resources */,
 				547419BF2887289300C46D63 /* Main.storyboard in Resources */,
-				F53758E92888524400FF626D /* KWK final project .png in Resources */,
+				F584A17C2889A5340087FF50 /* KWK final project .png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
