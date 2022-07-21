@@ -32,9 +32,7 @@
 		DCD2B7E32887BB07005463DF /* tenthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E22887BB07005463DF /* tenthViewController.swift */; };
 		DCD2B7E52887BB1F005463DF /* ElevenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD2B7E42887BB1F005463DF /* ElevenViewController.swift */; };
 		F584A1742889A0FE0087FF50 /* KWK final project  (1).png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1732889A0FE0087FF50 /* KWK final project  (1).png */; };
-		F584A1762889A3680087FF50 /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1752889A3680087FF50 /* KWK final project .png */; };
 		F584A1782889A45E0087FF50 /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1772889A45E0087FF50 /* KWK final project .png */; };
-		F584A17C2889A5340087FF50 /* KWK final project .png in Resources */ = {isa = PBXBuildFile; fileRef = F584A17B2889A5340087FF50 /* KWK final project .png */; };
 		F584A17E2889A5620087FF50 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A17D2889A5620087FF50 /* info.png */; };
 		F584A1822889A8D90087FF50 /* app.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1812889A8D90087FF50 /* app.png */; };
 		F584A1842889A9DD0087FF50 /* apps.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1832889A9DD0087FF50 /* apps.png */; };
@@ -94,9 +92,7 @@
 		DCD2B7E22887BB07005463DF /* tenthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tenthViewController.swift; sourceTree = "<group>"; };
 		DCD2B7E42887BB1F005463DF /* ElevenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenViewController.swift; sourceTree = "<group>"; };
 		F584A1732889A0FE0087FF50 /* KWK final project  (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KWK final project  (1).png"; sourceTree = "<group>"; };
-		F584A1752889A3680087FF50 /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "KWK final project .png"; path = "../../../Downloads/KWK final project .png"; sourceTree = "<group>"; };
 		F584A1772889A45E0087FF50 /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KWK final project .png"; sourceTree = "<group>"; };
-		F584A17B2889A5340087FF50 /* KWK final project .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "KWK final project .png"; path = "../../../Downloads/KWK final project .png"; sourceTree = "<group>"; };
 		F584A17D2889A5620087FF50 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = "<group>"; };
 		F584A1812889A8D90087FF50 /* app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app.png; sourceTree = "<group>"; };
 		F584A1832889A9DD0087FF50 /* apps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apps.png; sourceTree = "<group>"; };
@@ -176,8 +172,6 @@
 				F584A1832889A9DD0087FF50 /* apps.png */,
 				F584A1812889A8D90087FF50 /* app.png */,
 				F584A17D2889A5620087FF50 /* info.png */,
-				F584A17B2889A5340087FF50 /* KWK final project .png */,
-				F584A1752889A3680087FF50 /* KWK final project .png */,
 				F584A1772889A45E0087FF50 /* KWK final project .png */,
 				F584A1732889A0FE0087FF50 /* KWK final project  (1).png */,
 				547419C52887289700C46D63 /* LaunchScreen.storyboard */,
@@ -332,9 +326,7 @@
 				F584A1782889A45E0087FF50 /* KWK final project .png in Resources */,
 				F584A1902889AF910087FF50 /* kloss.png in Resources */,
 				F584A18A2889ABE40087FF50 /* 16.png in Resources */,
-				F584A1762889A3680087FF50 /* KWK final project .png in Resources */,
 				547419BF2887289300C46D63 /* Main.storyboard in Resources */,
-				F584A17C2889A5340087FF50 /* KWK final project .png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

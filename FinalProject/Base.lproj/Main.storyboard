@@ -921,7 +921,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="KEK-TT-UON"/>
         <segue reference="IgE-bJ-VR4"/>
         <segue reference="LHu-qi-oYO"/>
         <segue reference="UFx-Rq-GT1"/>
@@ -931,7 +930,7 @@
         <segue reference="3xK-MS-pn5"/>
         <segue reference="cwi-7a-8pU"/>
         <segue reference="Onh-jK-5Js"/>
-        <segue reference="1dH-0q-NBU"/>
+        <segue reference="O4w-pJ-uWT"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="4032" height="3024"/>
