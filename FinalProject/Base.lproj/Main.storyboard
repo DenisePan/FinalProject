@@ -347,6 +347,29 @@ Cg
                                     <segue destination="qFn-xs-cBw" kind="show" id="pIf-mK-lvO"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3d4-oU-ekm">
+                                <rect key="frame" x="54" y="255" width="307" height="508"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="tintColor" red="0.27437531949999999" green="0.60275340079999995" blue="0.1735984981" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">However, the association was not qualified to make such judgments as they lacked knowledge on pregnancy and reproductive health. By 1910, abortion was illegal in every state in the United States. This was not just because people had issues with abortion; during this time period, America was experiencing increased immigration numbers and sought out abortion laws as a way to get upper class white women to birth more children. 
+</string>
+                                        <attributes>
+                                            <color key="NSColor" red="0.2652810216" green="0.58357119560000004" blue="0.13767942790000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
+                                            <real key="NSKern" value="0.0"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" firstLineHeadIndent="48" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                            <color key="NSStrokeColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <real key="NSStrokeWidth" value="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="VvC-PO-Rk9"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -355,7 +378,7 @@ Cg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NRn-44-fVh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3136" y="88"/>
+            <point key="canvasLocation" x="-3136.2318840579715" y="87.723214285714278"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="JtH-Kh-SUV">
@@ -366,7 +389,7 @@ Cg
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="info.png" translatesAutoresizingMaskIntoConstraints="NO" id="37M-Qc-HQ3">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <rect key="frame" x="0.0" y="-34" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="26d-M4-CuB">
@@ -397,6 +420,49 @@ Cg
                                     <segue destination="YiH-fA-Fvb" kind="show" id="dr7-A8-oMj"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ftX-zp-1xP">
+                                <rect key="frame" x="54" y="136" width="307" height="363"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">The Association for the Study of Abortion (ASA) was founded in 1964 as a way to combat the laws and advance safe abortion procedures. New York legalized abortion by 1970, and, in the first two years after abortion became legal, two thirds of the abortions preformed in New York were on patients who had traveled from other states.
+</string>
+                                        <attributes>
+                                            <color key="NSColor" red="0.33760643010000002" green="0.62317651510000005" blue="0.21818870309999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
+                                            <real key="NSKern" value="0.0"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" firstLineHeadIndent="48" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                            <color key="NSStrokeColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <real key="NSStrokeWidth" value="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2Wk-9e-cOd">
+                                <rect key="frame" x="54" y="482" width="307" height="283"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">A couple of years later, in a monumental decision, the US Supreme Court ruled to protect the right to abortion in Roe v. Wade. The Roe v. Wade decision protected abortion rights in all 50 states and set a legal precedent that would affect later Supreme Court cases.</string>
+                                        <attributes>
+                                            <color key="NSColor" red="0.4074889719" green="0.66339242460000003" blue="0.30250892039999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <font key="NSFont" size="21" name="Futura-Medium"/>
+                                            <real key="NSKern" value="0.0"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                            <color key="NSStrokeColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <real key="NSStrokeWidth" value="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="85b-yj-N0L"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -405,7 +471,7 @@ Cg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qp7-th-K52" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2095.6521739130435" y="99.776785714285708"/>
+            <point key="canvasLocation" x="-2068" y="101"/>
         </scene>
         <!--View Controller First First Page-->
         <scene sceneID="tne-QT-ifu">
@@ -500,6 +566,9 @@ Cg
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain"/>
+                                <connections>
+                                    <segue destination="YiH-fA-Fvb" kind="show" id="91K-iv-nLH"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="ThM-1J-6OJ"/>
@@ -1348,6 +1417,7 @@ Cg
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="gTS-ez-VcU"/>
         <segue reference="IgE-bJ-VR4"/>
         <segue reference="LHu-qi-oYO"/>
         <segue reference="8aL-Nf-Vmr"/>
@@ -1357,7 +1427,8 @@ Cg
         <segue reference="oS5-6Y-JqY"/>
         <segue reference="cwi-7a-8pU"/>
         <segue reference="uRg-E8-yUR"/>
-        <segue reference="DXi-nq-xoA"/>
+        <segue reference="91K-iv-nLH"/>
+        <segue reference="O4w-pJ-uWT"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="4032" height="3024"/>
