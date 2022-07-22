@@ -9,13 +9,23 @@ import UIKit
 
 class tenthViewController: UIViewController {
 
+    @IBOutlet weak var `true`: UILabel!
+    
+    @IBOutlet weak var `false`: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func true99(_ sender: Any) {
+        true.text = "you know your facts"
+    }
+    
+    @IBAction func false999(_ sender: Any) {
+        false.text = "nope"
+    }
+    
     /*
     // MARK: - Navigation
 
