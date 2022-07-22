@@ -8,11 +8,7 @@
 import UIKit
 
 class SeventhViewController: UIViewController {
-    @IBOutlet weak var low: UILabel!
-    
-    @IBOutlet weak var wrong88: UILabel!
-    
-    @IBOutlet weak var yougotit: UILabel!
+   
     
     
     @IBOutlet weak var last: UILabel!
@@ -27,15 +23,15 @@ class SeventhViewController: UIViewController {
     }
     
     @IBAction func low6(_ sender: Any) {
-        low.text = "nope, try again"
+        last.text = "nope, try again"
     }
     
     @IBAction func wrong888(_ sender: Any) {
-        wrong88.text = "nope"
+        last.text = "nope"
     }
     
     @IBAction func got(_ sender: Any) {
-        yougotit.text = "pop off!!"
+        last.text = "pop off!!"
     }
     
     @IBAction func last45(_ sender: Any) {

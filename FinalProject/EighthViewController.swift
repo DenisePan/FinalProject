@@ -11,12 +11,7 @@ class EighthViewController: UIViewController {
 
     @IBOutlet weak var ggg: UILabel!
     
-    @IBOutlet weak var sss: UILabel!
-    
-    
-    @IBOutlet weak var aaa: UILabel!
-    
-    @IBOutlet weak var ddd: UILabel!
+  
     
     
     override func viewDidLoad() {
@@ -29,15 +24,15 @@ class EighthViewController: UIViewController {
     }
     
     @IBAction func sssss(_ sender: Any) {
-        sss.text = "you know your news"
+        ggg.text = "you know your news"
     }
     
     @IBAction func aaaa(_ sender: Any) {
-        aaa.text = "according to sources it will not, but they become more dangerous"
+        ggg.text = "according to sources it will not, but they become more dangerous"
     }
     
     @IBAction func dddd(_ sender: Any) {
-        ddd.text = "this is very unlikely"
+        ggg.text = "this is very unlikely"
     }
     
     /*

@@ -10,11 +10,7 @@ import UIKit
 class FifthViewController: UIViewController {
     @IBOutlet weak var yes1: UILabel!
     
-    @IBOutlet weak var no1: UILabel!
-    
-    @IBOutlet weak var no3: UILabel!
-    
-    @IBOutlet weak var no4: UILabel!
+ 
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -27,16 +23,16 @@ class FifthViewController: UIViewController {
     }
     
     @IBAction func no11(_ sender: Any) {
-        no1.text = "wrong"
+        yes1.text = "wrong"
     }
     
     @IBAction func no33(_ sender: Any) {
-        no3.text = "try again"
+        yes1.text = "try again"
     }
     
     
     @IBAction func no44(_ sender: Any) {
-        no4.text = "close"
+        yes1.text = "close"
     }
     
     

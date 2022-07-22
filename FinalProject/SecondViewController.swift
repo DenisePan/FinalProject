@@ -10,11 +10,7 @@ import UIKit
 class SecondViewController: UIViewController {
     @IBOutlet weak var answerQ: UILabel!
     
-    @IBOutlet weak var wrong1: UILabel!
-    @IBOutlet weak var wrong2: UILabel!
-    
-    @IBOutlet weak var wrong3: UILabel!
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -30,15 +26,15 @@ class SecondViewController: UIViewController {
     }
     
     @IBAction func wrongA(_ sender: Any) {
-        wrong1.text = "not quite"
+        answerQ.text = "not quite"
     }
     
     @IBAction func wrongAs(_ sender: Any) {
-        wrong2.text = "try again"
+        answerQ.text = "try again"
     }
     
     @IBAction func wrongAns(_ sender: Any) {
-        wrong3.text = "might be true but not the answer"
+        answerQ.text = "might be true but not the answer"
     }
     
     /*

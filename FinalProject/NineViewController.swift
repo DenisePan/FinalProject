@@ -9,11 +9,7 @@ import UIKit
 
 class NineViewController: UIViewController {
 
-    @IBOutlet weak var answer06: UILabel!
-    
-    @IBOutlet weak var nope07: UILabel!
-    
-    @IBOutlet weak var nope05: UILabel!
+
     
     
     @IBOutlet weak var yes02: UILabel!
@@ -27,17 +23,17 @@ class NineViewController: UIViewController {
     }
     
     @IBAction func answer066(_ sender: Any) {
-        answer06.text = "nope"
+        yes02.text = "nope"
     }
     
     
     @IBAction func nope077(_ sender: Any) {
-        nope07.text = "not quite"
+        yes02.text = "not quite"
     }
     
     
     @IBAction func nope0555(_ sender: Any) {
-        nope05.text = "no"
+        yes02.text = "no"
     }
     
     

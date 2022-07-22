@@ -9,13 +9,11 @@ import UIKit
 
 class SixthViewController: UIViewController {
 
-    @IBOutlet weak var roe: UILabel!
-    
-    @IBOutlet weak var notit: UILabel!
+
     
     @IBOutlet weak var close: UILabel!
     
-    @IBOutlet weak var no46: UILabel!
+
     
     
     override func viewDidLoad() {
@@ -25,11 +23,11 @@ class SixthViewController: UIViewController {
     }
     
     @IBAction func thisRight(_ sender: Any) {
-        roe.text = "you're right!!"
+        close.text = "you're right!!"
     }
     
     @IBAction func nope(_ sender: Any) {
-        notit.text = "try again"
+        close.text = "try again"
     }
     
     @IBAction func noooo(_ sender: Any) {
@@ -38,7 +36,7 @@ class SixthViewController: UIViewController {
     
     
     @IBAction func no466(_ sender: Any) {
-        no46.text = "close"
+        close.text = "close"
     }
     
     
