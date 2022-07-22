@@ -45,6 +45,7 @@
 		F584A1962889B1920087FF50 /* kloss (1).png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1952889B1920087FF50 /* kloss (1).png */; };
 		F584A1982889C3CC0087FF50 /* ilovekwk.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1972889C3CC0087FF50 /* ilovekwk.png */; };
 		F584A19A2889C4290087FF50 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = F584A1992889C4290087FF50 /* menu.png */; };
+		F58981B4288AF1920034E44A /* final kwk app.png in Resources */ = {isa = PBXBuildFile; fileRef = F58981B3288AF1920034E44A /* final kwk app.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		F584A1952889B1920087FF50 /* kloss (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kloss (1).png"; sourceTree = "<group>"; };
 		F584A1972889C3CC0087FF50 /* ilovekwk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ilovekwk.png; sourceTree = "<group>"; };
 		F584A1992889C4290087FF50 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
+		F58981B3288AF1920034E44A /* final kwk app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "final kwk app.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +168,7 @@
 				54741A3B28884FFB00C46D63 /* ViewControllerEducationPage.swift */,
 				54741A3928884FAA00C46D63 /* ViewControllerHomePage.swift */,
 				547419C32887289700C46D63 /* Assets.xcassets */,
+				F58981B3288AF1920034E44A /* final kwk app.png */,
 				F584A1992889C4290087FF50 /* menu.png */,
 				F584A1972889C3CC0087FF50 /* ilovekwk.png */,
 				F584A1952889B1920087FF50 /* kloss (1).png */,
@@ -322,6 +325,7 @@
 				F584A1962889B1920087FF50 /* kloss (1).png in Resources */,
 				F584A19A2889C4290087FF50 /* menu.png in Resources */,
 				F584A1882889ABB50087FF50 /* 17.png in Resources */,
+				F58981B4288AF1920034E44A /* final kwk app.png in Resources */,
 				F584A18C2889AD0C0087FF50 /* klossyKK.png in Resources */,
 				F584A1842889A9DD0087FF50 /* apps.png in Resources */,
 				F584A1922889B0760087FF50 /* home.png in Resources */,
