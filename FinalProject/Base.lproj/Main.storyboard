@@ -662,6 +662,9 @@ Cg
                                 <color key="tintColor" red="0.38023108243942261" green="0.8475041389465332" blue="0.90580081939697266" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="The government wanted to increase the population"/>
+                                <connections>
+                                    <action selector="wrongAs:" destination="kxm-At-tNf" eventType="touchUpInside" id="bia-7q-gSh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4GC-hb-lxH">
                                 <rect key="frame" x="236" y="530" width="158" height="72"/>
@@ -669,6 +672,9 @@ Cg
                                 <color key="tintColor" systemColor="systemPinkColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Didn't like working women"/>
+                                <connections>
+                                    <action selector="wrongAns:" destination="kxm-At-tNf" eventType="touchUpInside" id="MPE-fT-qpT"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUs-br-afE">
                                 <rect key="frame" x="20" y="392" width="158" height="72"/>
@@ -676,6 +682,10 @@ Cg
                                 <color key="tintColor" red="0.75638526678085327" green="0.47333872318267822" blue="0.90720486640930176" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="better economy "/>
+                                <connections>
+                                    <action selector="correctAnswer:" destination="kxm-At-tNf" eventType="touchUpInside" id="gas-0N-zb8"/>
+                                    <action selector="wrongA:" destination="kxm-At-tNf" eventType="touchUpInside" id="OdF-PY-8fN"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kLb-Cm-C2L">
                                 <rect key="frame" x="236" y="392" width="158" height="103"/>
@@ -683,12 +693,49 @@ Cg
                                 <color key="tintColor" red="0.91356980800628662" green="0.54783880710601807" blue="0.31248798966407776" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="America was getting a lot of immigrants so they wanted to encourge white women to have kids"/>
+                                <connections>
+                                    <action selector="correctAnswer:" destination="kxm-At-tNf" eventType="touchUpInside" id="WUU-hR-PwB"/>
+                                </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e8B-yu-EsK">
+                                <rect key="frame" x="186" y="361" width="0.0" height="0.0"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kj0-Ye-SiS">
+                                <rect key="frame" x="186" y="351" width="0.0" height="0.0"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="14L-Sw-4sh">
+                                <rect key="frame" x="186" y="351" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uv3-AE-TOL">
+                                <rect key="frame" x="187" y="351" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="xhS-E4-kar"/>
                         <color key="backgroundColor" red="0.92184042930603027" green="0.71995919942855835" blue="0.60089415311813354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="0gG-A8-lel"/>
+                    <connections>
+                        <outlet property="answerQ" destination="Kj0-Ye-SiS" id="PlW-it-G0j"/>
+                        <outlet property="wrong1" destination="Kj0-Ye-SiS" id="bLm-uh-Y0g"/>
+                        <outlet property="wrong2" destination="uv3-AE-TOL" id="TvK-D8-Zpz"/>
+                        <outlet property="wrong3" destination="uv3-AE-TOL" id="Klg-P5-9kQ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="t8l-0Q-ym4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -736,6 +783,9 @@ Cg
                                 <color key="tintColor" red="0.75638526678085327" green="0.47333872318267822" blue="0.90720486640930176" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="America Stands with Abortion"/>
+                                <connections>
+                                    <action selector="wrong311:" destination="BwE-f4-fnl" eventType="touchUpInside" id="Dg7-I8-0T5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dbe-nM-6IR">
                                 <rect key="frame" x="31" y="524" width="158" height="73"/>
@@ -743,6 +793,9 @@ Cg
                                 <color key="tintColor" red="0.38023108243942261" green="0.8475041389465332" blue="0.90580081939697266" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Association for the Study of Abortion"/>
+                                <connections>
+                                    <action selector="right33:" destination="BwE-f4-fnl" eventType="touchUpInside" id="2C4-PA-j2u"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fnw-BX-sa1">
                                 <rect key="frame" x="223" y="525" width="158" height="72"/>
@@ -750,6 +803,9 @@ Cg
                                 <color key="tintColor" systemColor="systemPinkColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="American Scientific Affiliation"/>
+                                <connections>
+                                    <action selector="wrong43:" destination="BwE-f4-fnl" eventType="touchUpInside" id="PfK-w5-Hwq"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8pO-v3-DxS">
                                 <rect key="frame" x="22" y="760" width="89" height="54"/>
@@ -767,12 +823,49 @@ Cg
                                 <color key="tintColor" red="0.91356980800628662" green="0.54783880710601807" blue="0.31248798966407776" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="American Society of Abortion"/>
+                                <connections>
+                                    <action selector="wrong322:" destination="BwE-f4-fnl" eventType="touchUpInside" id="8ty-he-sU3"/>
+                                </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kIR-HT-2ql">
+                                <rect key="frame" x="186" y="294" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ssn-eh-gtb">
+                                <rect key="frame" x="186" y="294" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8wD-Ty-4kW">
+                                <rect key="frame" x="186" y="294" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g5K-Yv-DVH">
+                                <rect key="frame" x="186" y="294" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Ls8-9e-1bt"/>
                         <color key="backgroundColor" red="0.91741406917572021" green="0.66786575317382812" blue="0.53898400068283081" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="Kyp-wD-Tny"/>
+                    <connections>
+                        <outlet property="right3" destination="8wD-Ty-4kW" id="o5j-iK-Z5S"/>
+                        <outlet property="wrong31" destination="kIR-HT-2ql" id="6KX-LK-aLC"/>
+                        <outlet property="wrong32" destination="Ssn-eh-gtb" id="l2L-lR-rhb"/>
+                        <outlet property="wrong4" destination="g5K-Yv-DVH" id="Vim-4P-Mh2"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FZQ-Zd-gwp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1417,18 +1510,17 @@ Cg
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="gTS-ez-VcU"/>
         <segue reference="IgE-bJ-VR4"/>
         <segue reference="LHu-qi-oYO"/>
         <segue reference="8aL-Nf-Vmr"/>
         <segue reference="9A3-gf-CAG"/>
         <segue reference="EBs-gl-9W1"/>
-        <segue reference="xBi-6q-0dh"/>
+        <segue reference="Lfx-CV-3FU"/>
         <segue reference="oS5-6Y-JqY"/>
-        <segue reference="cwi-7a-8pU"/>
+        <segue reference="ofR-Tz-zzl"/>
         <segue reference="uRg-E8-yUR"/>
         <segue reference="91K-iv-nLH"/>
-        <segue reference="O4w-pJ-uWT"/>
+        <segue reference="DXi-nq-xoA"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="4032" height="3024"/>

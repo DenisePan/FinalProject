@@ -8,14 +8,36 @@
 import UIKit
 
 class ThirdViewController: UIViewController {
-
+    
+    @IBOutlet weak var wrong31: UILabel!
+    
+    @IBOutlet weak var wrong32: UILabel!
+    
+    @IBOutlet weak var right3: UILabel!
+    
+    @IBOutlet weak var wrong4: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
+    @IBAction func wrong311(_ sender: Any) {
+        wrong31.text = "try again"
+    }
     
-
+    @IBAction func wrong322(_ sender: Any) {
+        wrong32.text = "not quite"
+    }
+    @IBAction func right33(_ sender: Any) {
+        right3.text = "yes!"
+    }
+    
+    @IBAction func wrong43(_ sender: Any) {
+        wrong4.text = "it exists, but not the answer we are looking for"
+    }
+    
+    
     /*
     // MARK: - Navigation
 
