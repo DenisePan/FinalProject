@@ -13,7 +13,7 @@
             <objects>
                 <viewController id="iWz-CR-Dls" customClass="ViewControllerEducationPage" customModule="FinalProject" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Nhr-NX-YRv">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kG8-Te-Gzt">
@@ -126,7 +126,7 @@ Cg
             <objects>
                 <viewController id="ev4-Gp-bra" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="XQA-l2-zX2">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="app.png" translatesAutoresizingMaskIntoConstraints="NO" id="lhI-Hz-nQl">
@@ -203,24 +203,13 @@ Cg
             <objects>
                 <viewController id="K3b-Zj-7aT" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Uko-eA-GbC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="16.png" translatesAutoresizingMaskIntoConstraints="NO" id="Hr2-hV-hcP">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bek-7J-HCA">
-                                <rect key="frame" x="244" y="680" width="117" height="204"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Next">
-                                    <fontDescription key="titleFontDescription" style="UICTFontTextStyleTitle0"/>
-                                </buttonConfiguration>
-                                <connections>
-                                    <segue destination="cWI-Ee-HNZ" kind="show" id="K2k-7y-QF7"/>
-                                </connections>
-                            </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="T1Q-fP-5sR">
                                 <rect key="frame" x="54" y="599" width="307" height="140"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -242,7 +231,7 @@ Cg
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Bx5-fz-Kc7">
-                                <rect key="frame" x="54" y="357" width="307" height="1690"/>
+                                <rect key="frame" x="61" y="363" width="307" height="1690"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment content=" ">
@@ -264,6 +253,17 @@ Cg
                                 </attributedString>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bek-7J-HCA">
+                                <rect key="frame" x="244" y="680" width="117" height="204"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Next">
+                                    <fontDescription key="titleFontDescription" style="UICTFontTextStyleTitle0"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <segue destination="cWI-Ee-HNZ" kind="show" id="Wiu-rW-NBr"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="azk-5V-9Oz"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -279,7 +279,7 @@ Cg
             <objects>
                 <viewController id="hkj-hb-ZyN" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mQR-qj-LsM">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="kloss.png" translatesAutoresizingMaskIntoConstraints="NO" id="W5i-JF-mL1">
@@ -361,7 +361,7 @@ Cg
             <objects>
                 <viewController id="vzE-hL-Omy" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Cdm-Z6-5Za">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="klossyyy.png" translatesAutoresizingMaskIntoConstraints="NO" id="bQ4-1S-rBF">
@@ -494,7 +494,7 @@ Cgo
             <objects>
                 <viewController id="cWI-Ee-HNZ" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pqG-Q1-IhD">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="17.png" translatesAutoresizingMaskIntoConstraints="NO" id="uDt-rW-dZ9">
@@ -548,7 +548,7 @@ Cgo
             <objects>
                 <viewController id="GcL-kM-JAl" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="LTV-fm-lhd">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apps.png" translatesAutoresizingMaskIntoConstraints="NO" id="Tro-iV-9f8">
@@ -609,7 +609,7 @@ Cgo
             <objects>
                 <viewController id="fuJ-ws-bNk" customClass="ViewControllerPetitionsAndDonationsPage" customModule="FinalProject" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pk7-j3-7eF">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="info.png" translatesAutoresizingMaskIntoConstraints="NO" id="3Re-vH-Ak7">
@@ -665,7 +665,7 @@ Cgo
             <objects>
                 <viewController id="qFn-xs-cBw" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="H52-PS-SbL">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="info.png" translatesAutoresizingMaskIntoConstraints="NO" id="37M-Qc-HQ3">
@@ -798,7 +798,7 @@ Cgo
             <objects>
                 <viewController id="hhY-UW-SNW" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="l8k-eA-nxQ">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="menu.png" translatesAutoresizingMaskIntoConstraints="NO" id="wCy-pC-W0D">
@@ -865,7 +865,7 @@ Cgo
             <objects>
                 <viewController id="YiH-fA-Fvb" customClass="FirstViewController" customModule="FinalProject" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="dIw-DA-mYf">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Copy of KWK" translatesAutoresizingMaskIntoConstraints="NO" id="gL5-KA-Neb">
@@ -915,7 +915,7 @@ Cgo
             <objects>
                 <viewController id="kxm-At-tNf" customClass="SecondViewController" customModule="FinalProject" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="5ar-J0-WXj">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="4-1" translatesAutoresizingMaskIntoConstraints="NO" id="W5z-XZ-v7R">
@@ -1903,6 +1903,7 @@ Cgo
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="Wiu-rW-NBr"/>
         <segue reference="kZe-TX-JWq"/>
         <segue reference="gsy-BX-w2Q"/>
         <segue reference="UFx-Rq-GT1"/>
@@ -1913,7 +1914,7 @@ Cgo
         <segue reference="ofR-Tz-zzl"/>
         <segue reference="Onh-jK-5Js"/>
         <segue reference="dr7-A8-oMj"/>
-        <segue reference="6b5-b3-XgN"/>
+        <segue reference="1dH-0q-NBU"/>
         <segue reference="5TO-vl-YAA"/>
     </inferredMetricsTieBreakers>
     <resources>
